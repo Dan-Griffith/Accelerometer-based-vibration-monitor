@@ -1,0 +1,87 @@
+
+
+Mode file: 
+
+mode_0 = 0 //IDLE
+mode_1 = 1 //calibraion 
+mode_2 = 2 //monitoring mode
+
+int set_mode(int input_from_ui){
+
+    current_mode.stop();
+    current_mode.set(input_from_ui);
+}
+
+int __init__(){
+    current_mode.set(0);
+}
+
+int controler(){
+
+    if current_mode == 2{
+        run monitoring function 
+    }      
+    if current_mode == 1{
+        run calibaration function 
+    }
+    if current_mode == 0{
+        run idle function
+    }
+}
+
+Measurment file:
+build the measurment object:
+    tran: Hz, PPV
+    vert: Hz, PPV
+    long: Hz, PPV
+    
+IDLE mode:
+
+build the project oobject and set it:
+
+
+Monitoring Mode: 
+    recording_interval = project.get_interval();
+    int vibration_limit = project.get_vibration_limit()
+    int frequency_limit = project.get_frequency_limit()
+    int time = 0;
+    Event* vibration_reading;
+
+    if project != NULL{
+        while current_mode == 2{
+            vibration_reading = Event(the three axis of frequency and vibration values)
+            if vibration_reading > vibration_limit{
+                while time <= recording_interval{
+                    
+                    stream constant data into a db
+                    send vibration alert              
+                }
+            }else{
+                if time > recording_interval{
+
+                    take a single Measurment and write it to db 
+                    time = 0;
+                }
+            }
+            increase time in ms 
+        }
+
+    }else{
+        warn user that a project hasnt been set, put it into idle mode to send a project to the unit
+    }
+Calibration Mode:
+
+int table_vibration_rate = calibration_panel.get_table_rate();
+int measure_offset(){
+    return unit readings  - table_vibration rates // for three axis
+}
+int write_calibration_offsets(){
+    write the offsets to be stored with the unit object 
+}
+
+UI: 
+
+control the modes
+send project limits 
+take input from user for calibration and send data to unit
+
