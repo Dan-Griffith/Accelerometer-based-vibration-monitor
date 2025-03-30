@@ -82,9 +82,9 @@ if __name__ == "__main__":
     try:
         while True:
             n_samples = int(current_sample_rate * DURATION)
-            print(f"\nSampling at {current_sample_rate:.2f} Hz (n_samples = {DURATION}")
+            print(f"\nSampling at {current_sample_rate:.2f} Hz (n_samples = {n_samples})")
 
-            x_vals, y_vals, z_vals = collect_data(N_SAMPLES, current_sample_rate)
+            x_vals, y_vals, z_vals = collect_data(n_samples, current_sample_rate)
 
             max_dom_freq = 0
             for axis, data in zip(['X', 'Y', 'Z'], [x_vals, y_vals, z_vals]):
