@@ -13,7 +13,6 @@ from scipy.fft import fft, fftfreq
 
 
 i2c = busio.I2C(pin.SCL, pin.SDA)
-
 bus = smbus.SMBus(1)
 accelerometer = adafruit_adxl34x.ADXL345(i2c)
 
@@ -27,7 +26,6 @@ bus.write_byte_data(0x53, 0x31, value)
 bus.write_byte_data(0x53, 0x2D, 0x08)
 
 accelerometer.enable_motion_detection(threshold=20)
-
 accelerometer.enable_tap_detection(tap_count=1, threshold=3, duration=100, latency=20, window=255)
 
 
@@ -54,9 +52,12 @@ def getAxes():
 	
 	
 # --- Sampling Config ---
-SAMPLE_RATE = 100  # Hz
-DURATION = 1.0     # seconds
-N_SAMPLES = int(SAMPLE_RATE * DURATION)
+INITIAL_SAMPLE_RATE = 100  # Hz
+DURATION = 30    # seconds, longer duration gives better sampling accuracy
+MIN_SAMPLE_RATE = 10 # Hz
+MAX_SAMPLE_RATE = 1000 # Hz
+margin = 1.2 #use margin to avoid sampling too fast
+current_sample_rate = INITIAL_SAMPLE_RATE
 
 
 def collect_data(n_samples, sample_rate):
@@ -111,12 +112,30 @@ if __name__ == "__main__":
     print("Running real-time vibration analysis...\nPress Ctrl+C to stop.\n")
     try:
         while True:
-            x_vals, y_vals, z_vals = collect_data(N_SAMPLES, SAMPLE_RATE)
+            n_samples = int(current_sample_rate * DURATION)
+            print(f"\nSampling at {current_sample_rate:.2f} Hz (n_samples = {n_samples})")
 
+            x_vals, y_vals, z_vals = collect_data(n_samples, current_sample_rate)
+
+            max_dom_freq = 0
             for axis, data in zip(['X', 'Y', 'Z'], [x_vals, y_vals, z_vals]):
-                freqs, amps = compute_fft(data, SAMPLE_RATE)
+                freqs, amps = compute_fft(data, current_sample_rate)
                 vels = compute_velocity_mm_s(freqs, amps)
                 report(axis, freqs, amps, vels)
+                idx = np.argmax(amps)
+                max_dom_freq = max(max_dom_freq, freqs[idx])
+
+            if max_dom_freq ==0:
+                desired_rate = current_sample_rate #no change if no new dominant frequency
+            else:
+                desired_rate = 2 * max_dom_freq * margin #update with nyquist sampling rate
+                desired_rate = max(MIN_SAMPLE_RATE, min(desired_rate, MAX_SAMPLE_RATE))
+
+            new_sample_rate = (0.8 * current_sample_rate) + (0.2 * desired_rate)
+            print(f"\nMax dominant frequency: {max_dom_freq:.2f} Hz")
+            print(f"Desired sample rate (Nyquist with margin): {desired_rate:.2f} Hz")
+            print(f"Updating sample rate from {current_sample_rate:.2f} Hz to {new_sample_rate:.2f} Hz\n")
+            current_sample_rate = new_sample_rate
 
             time.sleep(0.1)  # small pause before next scan
     except KeyboardInterrupt:
