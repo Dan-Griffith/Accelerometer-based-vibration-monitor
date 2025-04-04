@@ -29,9 +29,13 @@ accelerometer.enable_motion_detection(threshold=20)
 accelerometer.enable_tap_detection(tap_count=1, threshold=3, duration=100, latency=20, window=255)
 
 
-
 def getAxes():
 	bytes = bus.read_i2c_block_data(0x53, 0x32, 6)
+	
+	print(hex(bytes[0]), hex(bytes[1]), hex(bytes[2]), hex(bytes[3]), hex(bytes[4]), hex(bytes[5]))
+	
+	
+	
 	x = (bytes[1] << 8) | bytes[0]
 	y = (bytes[3] << 8) | bytes[2]
 	z = (bytes[5] << 8) | bytes[4]
@@ -39,7 +43,7 @@ def getAxes():
 	if x & (1 << 15): x -= (1 << 16)
 	if y & (1 << 15): y -= (1 << 16)
 	if z & (1 << 15): z -= (1 << 16)
-	return x,y,z
+	return x * 0.0039,y *0.0039, z*0.0039
 	
 #while True:
 	#x,y,z = getAxes()
@@ -52,10 +56,10 @@ def getAxes():
 	
 	
 # --- Sampling Config ---
-INITIAL_SAMPLE_RATE = 100  # Hz
+INITIAL_SAMPLE_RATE = 60  # Hz
 DURATION = 30    # seconds, longer duration gives better sampling accuracy
 MIN_SAMPLE_RATE = 10 # Hz
-MAX_SAMPLE_RATE = 1000 # Hz
+MAX_SAMPLE_RATE = 250 # Hz
 margin = 1.2 #use margin to avoid sampling too fast
 current_sample_rate = INITIAL_SAMPLE_RATE
 
@@ -89,12 +93,16 @@ def compute_velocity_mm_s(frequencies, amplitudes):
             continue
         acc_ms2 = amplitudes[i] * 9.81  # g → m/s²
         v = acc_ms2 / (2 * math.pi * f)  # m/s
-        velocities.append(v*10)      # mm/s
+        velocities.append(v*1000)      # mm/s
     return np.array(velocities)
 
 # --- Report per-axis dominant frequency, amplitude, velocity ---
 def report(axis, freqs, amps, vels):
 	idx = np.argmax(amps)
+	
+	bytes = bus.read_i2c_block_data(0x53, 0x32, 6)
+	
+	#print(hex(bytes[0]), hex(bytes[1]), hex(bytes[2]), hex(bytes[3]), hex(bytes[4]), hex(bytes[5]))
 	print(f"\n--- Axis: {axis} ---", int(time.time()))
 	print(f"Dominant Frequency: {freqs[idx]:.2f} Hz")
 	print(f"Acceleration Amplitude: {amps[idx]:.4f} g")
@@ -104,6 +112,7 @@ def report(axis, freqs, amps, vels):
 		file.write(f"\nDominant Frequency: {freqs[idx]:.2f} Hz")
 		file.write(f"\nAcceleration Amplitude: {amps[idx]:.4f} g")
 		file.write(f"\nParticle Velocity: {vels[idx]:.2f} mm/s")
+		file.write(f"\nHex: {hex(bytes[0]), hex(bytes[1]), hex(bytes[2]), hex(bytes[3]), hex(bytes[4]), hex(bytes[5])}")
 		
 		time.sleep(0.5)
 

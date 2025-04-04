@@ -1,0 +1,739 @@
+
+--- Axis: X --- 1743444728
+Dominant Frequency: 26.45 Hz
+Acceleration Amplitude: 0.0005 g
+Particle Velocity: 0.03 mm/s
+--- Axis: Y --- 1743444728
+Dominant Frequency: 0.03 Hz
+Acceleration Amplitude: 0.0008 g
+Particle Velocity: 36.94 mm/s
+--- Axis: Z --- 1743444729
+Dominant Frequency: 3.02 Hz
+Acceleration Amplitude: 0.0012 g
+Particle Velocity: 0.61 mm/s
+--- Axis: X --- 1743445019
+Dominant Frequency: 27.33 Hz
+Acceleration Amplitude: 0.0008 g
+Particle Velocity: 0.05 mm/s
+--- Axis: Y --- 1743445019
+Dominant Frequency: 27.60 Hz
+Acceleration Amplitude: 0.0007 g
+Particle Velocity: 0.04 mm/s
+--- Axis: Z --- 1743445020
+Dominant Frequency: 3.37 Hz
+Acceleration Amplitude: 0.0014 g
+Particle Velocity: 0.65 mm/s
+--- Axis: X --- 1743445052
+Dominant Frequency: 29.27 Hz
+Acceleration Amplitude: 0.0007 g
+Particle Velocity: 0.04 mm/s
+--- Axis: Y --- 1743445052
+Dominant Frequency: 27.61 Hz
+Acceleration Amplitude: 0.0007 g
+Particle Velocity: 0.04 mm/s
+--- Axis: Z --- 1743445053
+Dominant Frequency: 2.17 Hz
+Acceleration Amplitude: 0.0010 g
+Particle Velocity: 0.75 mm/s
+--- Axis: X --- 1743445085
+Dominant Frequency: 30.81 Hz
+Acceleration Amplitude: 0.0045 g
+Particle Velocity: 0.23 mm/s
+--- Axis: Y --- 1743445086
+Dominant Frequency: 30.81 Hz
+Acceleration Amplitude: 0.0024 g
+Particle Velocity: 0.12 mm/s
+--- Axis: Z --- 1743445086
+Dominant Frequency: 30.81 Hz
+Acceleration Amplitude: 0.0969 g
+Particle Velocity: 4.91 mm/s
+--- Axis: X --- 1743445119
+Dominant Frequency: 30.25 Hz
+Acceleration Amplitude: 0.0130 g
+Particle Velocity: 0.67 mm/s
+--- Axis: Y --- 1743445119
+Dominant Frequency: 30.25 Hz
+Acceleration Amplitude: 0.0074 g
+Particle Velocity: 0.38 mm/s
+--- Axis: Z --- 1743445120
+Dominant Frequency: 30.25 Hz
+Acceleration Amplitude: 0.2540 g
+Particle Velocity: 13.11 mm/s
+--- Axis: X --- 1743445152
+Dominant Frequency: 28.90 Hz
+Acceleration Amplitude: 0.0035 g
+Particle Velocity: 0.19 mm/s
+--- Axis: Y --- 1743445153
+Dominant Frequency: 28.87 Hz
+Acceleration Amplitude: 0.0016 g
+Particle Velocity: 0.09 mm/s
+--- Axis: Z --- 1743445153
+Dominant Frequency: 28.90 Hz
+Acceleration Amplitude: 0.0679 g
+Particle Velocity: 3.67 mm/s
+--- Axis: X --- 1743445186
+Dominant Frequency: 28.41 Hz
+Acceleration Amplitude: 0.0170 g
+Particle Velocity: 0.93 mm/s
+--- Axis: Y --- 1743445186
+Dominant Frequency: 28.41 Hz
+Acceleration Amplitude: 0.0129 g
+Particle Velocity: 0.71 mm/s
+--- Axis: Z --- 1743445187
+Dominant Frequency: 28.41 Hz
+Acceleration Amplitude: 0.3505 g
+Particle Velocity: 19.26 mm/s
+--- Axis: X --- 1743445219
+Dominant Frequency: 13.14 Hz
+Acceleration Amplitude: 0.0138 g
+Particle Velocity: 1.64 mm/s
+--- Axis: Y --- 1743445220
+Dominant Frequency: 13.14 Hz
+Acceleration Amplitude: 0.0103 g
+Particle Velocity: 1.23 mm/s
+--- Axis: Z --- 1743445220
+Dominant Frequency: 13.14 Hz
+Acceleration Amplitude: 0.2892 g
+Particle Velocity: 34.37 mm/s
+--- Axis: X --- 1743445252
+Dominant Frequency: 25.44 Hz
+Acceleration Amplitude: 0.0053 g
+Particle Velocity: 0.32 mm/s
+--- Axis: Y --- 1743445253
+Dominant Frequency: 25.44 Hz
+Acceleration Amplitude: 0.0037 g
+Particle Velocity: 0.22 mm/s
+--- Axis: Z --- 1743445253
+Dominant Frequency: 25.44 Hz
+Acceleration Amplitude: 0.1096 g
+Particle Velocity: 6.73 mm/s
+--- Axis: X --- 1743445286
+Dominant Frequency: 25.77 Hz
+Acceleration Amplitude: 0.0077 g
+Particle Velocity: 0.47 mm/s
+--- Axis: Y --- 1743445286
+Dominant Frequency: 25.77 Hz
+Acceleration Amplitude: 0.0051 g
+Particle Velocity: 0.31 mm/s
+--- Axis: Z --- 1743445287
+Dominant Frequency: 25.74 Hz
+Acceleration Amplitude: 0.1587 g
+Particle Velocity: 9.63 mm/s
+--- Axis: X --- 1743445319
+Dominant Frequency: 26.31 Hz
+Acceleration Amplitude: 0.0257 g
+Particle Velocity: 1.53 mm/s
+--- Axis: Y --- 1743445320
+Dominant Frequency: 26.31 Hz
+Acceleration Amplitude: 0.0214 g
+Particle Velocity: 1.27 mm/s
+--- Axis: Z --- 1743445320
+Dominant Frequency: 26.31 Hz
+Acceleration Amplitude: 0.5368 g
+Particle Velocity: 31.85 mm/s
+--- Axis: X --- 1743445352
+Dominant Frequency: 27.24 Hz
+Acceleration Amplitude: 0.0221 g
+Particle Velocity: 1.27 mm/s
+--- Axis: Y --- 1743445353
+Dominant Frequency: 27.24 Hz
+Acceleration Amplitude: 0.0183 g
+Particle Velocity: 1.05 mm/s
+--- Axis: Z --- 1743445353
+Dominant Frequency: 27.24 Hz
+Acceleration Amplitude: 0.4586 g
+Particle Velocity: 26.28 mm/s
+--- Axis: X --- 1743445386
+Dominant Frequency: 28.84 Hz
+Acceleration Amplitude: 0.0250 g
+Particle Velocity: 1.35 mm/s
+--- Axis: Y --- 1743445386
+Dominant Frequency: 28.84 Hz
+Acceleration Amplitude: 0.0211 g
+Particle Velocity: 1.14 mm/s
+--- Axis: Z --- 1743445387
+Dominant Frequency: 28.84 Hz
+Acceleration Amplitude: 0.5371 g
+Particle Velocity: 29.07 mm/s
+--- Axis: X --- 1743445419
+Dominant Frequency: 31.58 Hz
+Acceleration Amplitude: 0.0034 g
+Particle Velocity: 0.17 mm/s
+--- Axis: Y --- 1743445420
+Dominant Frequency: 31.58 Hz
+Acceleration Amplitude: 0.0029 g
+Particle Velocity: 0.14 mm/s
+--- Axis: Z --- 1743445420
+Dominant Frequency: 31.68 Hz
+Acceleration Amplitude: 0.0881 g
+Particle Velocity: 4.34 mm/s
+--- Axis: X --- 1743445453
+Dominant Frequency: 26.67 Hz
+Acceleration Amplitude: 0.0008 g
+Particle Velocity: 0.05 mm/s
+--- Axis: Y --- 1743445453
+Dominant Frequency: 26.67 Hz
+Acceleration Amplitude: 0.0008 g
+Particle Velocity: 0.05 mm/s
+--- Axis: Z --- 1743445454
+Dominant Frequency: 2.30 Hz
+Acceleration Amplitude: 0.0025 g
+Particle Velocity: 1.72 mm/s
+--- Axis: X --- 1743445486
+Dominant Frequency: 31.04 Hz
+Acceleration Amplitude: 0.0009 g
+Particle Velocity: 0.04 mm/s
+--- Axis: Y --- 1743445486
+Dominant Frequency: 30.98 Hz
+Acceleration Amplitude: 0.0008 g
+Particle Velocity: 0.04 mm/s
+--- Axis: Z --- 1743445487
+Dominant Frequency: 29.94 Hz
+Acceleration Amplitude: 0.0111 g
+Particle Velocity: 0.58 mm/s
+--- Axis: X --- 1743445519
+Dominant Frequency: 28.27 Hz
+Acceleration Amplitude: 0.0324 g
+Particle Velocity: 1.79 mm/s
+--- Axis: Y --- 1743445520
+Dominant Frequency: 28.27 Hz
+Acceleration Amplitude: 0.0344 g
+Particle Velocity: 1.90 mm/s
+--- Axis: Z --- 1743445520
+Dominant Frequency: 28.27 Hz
+Acceleration Amplitude: 0.6988 g
+Particle Velocity: 38.59 mm/s
+--- Axis: X --- 1743445553
+Dominant Frequency: 28.18 Hz
+Acceleration Amplitude: 0.0321 g
+Particle Velocity: 1.78 mm/s
+--- Axis: Y --- 1743445553
+Dominant Frequency: 28.18 Hz
+Acceleration Amplitude: 0.0354 g
+Particle Velocity: 1.96 mm/s
+--- Axis: Z --- 1743445554
+Dominant Frequency: 28.18 Hz
+Acceleration Amplitude: 0.7801 g
+Particle Velocity: 43.22 mm/s
+--- Axis: X --- 1743445586
+Dominant Frequency: 28.15 Hz
+Acceleration Amplitude: 0.0309 g
+Particle Velocity: 1.71 mm/s
+--- Axis: Y --- 1743445587
+Dominant Frequency: 28.15 Hz
+Acceleration Amplitude: 0.0341 g
+Particle Velocity: 1.89 mm/s
+--- Axis: Z --- 1743445587
+Dominant Frequency: 28.15 Hz
+Acceleration Amplitude: 0.7739 g
+Particle Velocity: 42.93 mm/s
+--- Axis: X --- 1743445620
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.0314 g
+Particle Velocity: 1.74 mm/s
+--- Axis: Y --- 1743445620
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.0347 g
+Particle Velocity: 1.92 mm/s
+--- Axis: Z --- 1743445621
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.7826 g
+Particle Velocity: 43.42 mm/s
+--- Axis: X --- 1743445653
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.0390 g
+Particle Velocity: 2.16 mm/s
+--- Axis: Y --- 1743445654
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.0429 g
+Particle Velocity: 2.38 mm/s
+--- Axis: Z --- 1743445654
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.9799 g
+Particle Velocity: 54.37 mm/s
+--- Axis: X --- 1743445687
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.0428 g
+Particle Velocity: 2.38 mm/s
+--- Axis: Y --- 1743445687
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.0474 g
+Particle Velocity: 2.63 mm/s
+--- Axis: Z --- 1743445688
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 1.0683 g
+Particle Velocity: 59.28 mm/s
+--- Axis: X --- 1743445720
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.0430 g
+Particle Velocity: 2.39 mm/s
+--- Axis: Y --- 1743445721
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.0473 g
+Particle Velocity: 2.62 mm/s
+--- Axis: Z --- 1743445721
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 1.0795 g
+Particle Velocity: 59.89 mm/s
+--- Axis: X --- 1743445754
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.0395 g
+Particle Velocity: 2.19 mm/s
+--- Axis: Y --- 1743445754
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.0437 g
+Particle Velocity: 2.42 mm/s
+--- Axis: Z --- 1743445755
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.9810 g
+Particle Velocity: 54.42 mm/s
+--- Axis: X --- 1743445787
+Dominant Frequency: 28.15 Hz
+Acceleration Amplitude: 0.0302 g
+Particle Velocity: 1.68 mm/s
+--- Axis: Y --- 1743445788
+Dominant Frequency: 28.15 Hz
+Acceleration Amplitude: 0.0351 g
+Particle Velocity: 1.95 mm/s
+--- Axis: Z --- 1743445788
+Dominant Frequency: 28.15 Hz
+Acceleration Amplitude: 0.7628 g
+Particle Velocity: 42.32 mm/s
+--- Axis: X --- 1743445821
+Dominant Frequency: 28.11 Hz
+Acceleration Amplitude: 0.0373 g
+Particle Velocity: 2.07 mm/s
+--- Axis: Y --- 1743445821
+Dominant Frequency: 28.11 Hz
+Acceleration Amplitude: 0.0416 g
+Particle Velocity: 2.31 mm/s
+--- Axis: Z --- 1743445822
+Dominant Frequency: 28.11 Hz
+Acceleration Amplitude: 0.9258 g
+Particle Velocity: 51.42 mm/s
+--- Axis: X --- 1743445854
+Dominant Frequency: 28.18 Hz
+Acceleration Amplitude: 0.0286 g
+Particle Velocity: 1.58 mm/s
+--- Axis: Y --- 1743445855
+Dominant Frequency: 28.18 Hz
+Acceleration Amplitude: 0.0328 g
+Particle Velocity: 1.82 mm/s
+--- Axis: Z --- 1743445855
+Dominant Frequency: 28.18 Hz
+Acceleration Amplitude: 0.7344 g
+Particle Velocity: 40.70 mm/s
+--- Axis: X --- 1743445888
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.0283 g
+Particle Velocity: 1.57 mm/s
+--- Axis: Y --- 1743445888
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.0318 g
+Particle Velocity: 1.77 mm/s
+--- Axis: Z --- 1743445889
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.6970 g
+Particle Velocity: 38.67 mm/s
+--- Axis: X --- 1743445921
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.0386 g
+Particle Velocity: 2.14 mm/s
+--- Axis: Y --- 1743445922
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.0455 g
+Particle Velocity: 2.52 mm/s
+--- Axis: Z --- 1743445922
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.9912 g
+Particle Velocity: 55.00 mm/s
+--- Axis: X --- 1743445955
+Dominant Frequency: 28.17 Hz
+Acceleration Amplitude: 0.0245 g
+Particle Velocity: 1.36 mm/s
+--- Axis: Y --- 1743445955
+Dominant Frequency: 28.17 Hz
+Acceleration Amplitude: 0.0266 g
+Particle Velocity: 1.47 mm/s
+--- Axis: Z --- 1743445956
+Dominant Frequency: 28.17 Hz
+Acceleration Amplitude: 0.6366 g
+Particle Velocity: 35.29 mm/s
+--- Axis: X --- 1743445988
+Dominant Frequency: 28.17 Hz
+Acceleration Amplitude: 0.0169 g
+Particle Velocity: 0.94 mm/s
+--- Axis: Y --- 1743445989
+Dominant Frequency: 28.17 Hz
+Acceleration Amplitude: 0.0189 g
+Particle Velocity: 1.05 mm/s
+--- Axis: Z --- 1743445989
+Dominant Frequency: 28.17 Hz
+Acceleration Amplitude: 0.4441 g
+Particle Velocity: 24.61 mm/s
+--- Axis: X --- 1743446022
+Dominant Frequency: 28.11 Hz
+Acceleration Amplitude: 0.0417 g
+Particle Velocity: 2.31 mm/s
+--- Axis: Y --- 1743446022
+Dominant Frequency: 28.11 Hz
+Acceleration Amplitude: 0.0457 g
+Particle Velocity: 2.54 mm/s
+--- Axis: Z --- 1743446023
+Dominant Frequency: 28.11 Hz
+Acceleration Amplitude: 1.0659 g
+Particle Velocity: 59.20 mm/s
+--- Axis: X --- 1743446055
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.0310 g
+Particle Velocity: 1.72 mm/s
+--- Axis: Y --- 1743446056
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.0347 g
+Particle Velocity: 1.93 mm/s
+--- Axis: Z --- 1743446056
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.8079 g
+Particle Velocity: 44.83 mm/s
+--- Axis: X --- 1743446089
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.0285 g
+Particle Velocity: 1.58 mm/s
+--- Axis: Y --- 1743446089
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.0307 g
+Particle Velocity: 1.71 mm/s
+--- Axis: Z --- 1743446090
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.7075 g
+Particle Velocity: 39.26 mm/s
+--- Axis: X --- 1743446122
+Dominant Frequency: 28.10 Hz
+Acceleration Amplitude: 0.0398 g
+Particle Velocity: 2.21 mm/s
+--- Axis: Y --- 1743446123
+Dominant Frequency: 28.10 Hz
+Acceleration Amplitude: 0.0452 g
+Particle Velocity: 2.51 mm/s
+--- Axis: Z --- 1743446123
+Dominant Frequency: 28.10 Hz
+Acceleration Amplitude: 1.0018 g
+Particle Velocity: 55.66 mm/s
+--- Axis: X --- 1743446156
+Dominant Frequency: 28.17 Hz
+Acceleration Amplitude: 0.0231 g
+Particle Velocity: 1.28 mm/s
+--- Axis: Y --- 1743446156
+Dominant Frequency: 28.17 Hz
+Acceleration Amplitude: 0.0256 g
+Particle Velocity: 1.42 mm/s
+--- Axis: Z --- 1743446157
+Dominant Frequency: 28.17 Hz
+Acceleration Amplitude: 0.5941 g
+Particle Velocity: 32.92 mm/s
+--- Axis: X --- 1743446189
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.0371 g
+Particle Velocity: 2.06 mm/s
+--- Axis: Y --- 1743446190
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.0397 g
+Particle Velocity: 2.20 mm/s
+--- Axis: Z --- 1743446190
+Dominant Frequency: 28.14 Hz
+Acceleration Amplitude: 0.9416 g
+Particle Velocity: 52.25 mm/s
+--- Axis: X --- 1743446455
+Dominant Frequency: 29.97 Hz
+Acceleration Amplitude: 0.0009 g
+Particle Velocity: 0.04 mm/s
+--- Axis: Y --- 1743446455
+Dominant Frequency: 29.97 Hz
+Acceleration Amplitude: 0.0007 g
+Particle Velocity: 0.04 mm/s
+--- Axis: Z --- 1743446456
+Dominant Frequency: 3.37 Hz
+Acceleration Amplitude: 0.0029 g
+Particle Velocity: 1.33 mm/s
+--- Axis: X --- 1743446488
+Dominant Frequency: 29.87 Hz
+Acceleration Amplitude: 0.0006 g
+Particle Velocity: 0.03 mm/s
+--- Axis: Y --- 1743446489
+Dominant Frequency: 29.87 Hz
+Acceleration Amplitude: 0.0007 g
+Particle Velocity: 0.04 mm/s
+--- Axis: Z --- 1743446489
+Dominant Frequency: 1.10 Hz
+Acceleration Amplitude: 0.0017 g
+Particle Velocity: 2.45 mm/s
+--- Axis: X --- 1743447239
+Dominant Frequency: 29.90 Hz
+Acceleration Amplitude: 0.0010 g
+Particle Velocity: 0.05 mm/s
+--- Axis: Y --- 1743447239
+Dominant Frequency: 29.90 Hz
+Acceleration Amplitude: 0.0009 g
+Particle Velocity: 0.05 mm/s
+--- Axis: Z --- 1743447240
+Dominant Frequency: 3.33 Hz
+Acceleration Amplitude: 0.0019 g
+Particle Velocity: 0.87 mm/s
+--- Axis: X --- 1743447272
+Dominant Frequency: 29.84 Hz
+Acceleration Amplitude: 0.0008 g
+Particle Velocity: 0.04 mm/s
+--- Axis: Y --- 1743447272
+Dominant Frequency: 29.81 Hz
+Acceleration Amplitude: 0.0007 g
+Particle Velocity: 0.04 mm/s
+--- Axis: Z --- 1743447273
+Dominant Frequency: 1.13 Hz
+Acceleration Amplitude: 0.0028 g
+Particle Velocity: 3.79 mm/s
+--- Axis: X --- 1743447305
+Dominant Frequency: 30.04 Hz
+Acceleration Amplitude: 0.0010 g
+Particle Velocity: 0.05 mm/s
+--- Axis: Y --- 1743447306
+Dominant Frequency: 30.04 Hz
+Acceleration Amplitude: 0.0009 g
+Particle Velocity: 0.05 mm/s
+--- Axis: Z --- 1743447306
+Dominant Frequency: 0.57 Hz
+Acceleration Amplitude: 0.0016 g
+Particle Velocity: 4.46 mm/s
+--- Axis: X --- 1743447339
+Dominant Frequency: 25.37 Hz
+Acceleration Amplitude: 0.0007 g
+Particle Velocity: 0.04 mm/s
+--- Axis: Y --- 1743447339
+Dominant Frequency: 29.97 Hz
+Acceleration Amplitude: 0.0006 g
+Particle Velocity: 0.03 mm/s
+--- Axis: Z --- 1743447340
+Dominant Frequency: 2.10 Hz
+Acceleration Amplitude: 0.0019 g
+Particle Velocity: 1.40 mm/s
+--- Axis: X --- 1743447372
+Dominant Frequency: 29.94 Hz
+Acceleration Amplitude: 0.0008 g
+Particle Velocity: 0.04 mm/s
+--- Axis: Y --- 1743447373
+Dominant Frequency: 30.04 Hz
+Acceleration Amplitude: 0.0009 g
+Particle Velocity: 0.05 mm/s
+--- Axis: Z --- 1743447373
+Dominant Frequency: 3.27 Hz
+Acceleration Amplitude: 0.0025 g
+Particle Velocity: 1.21 mm/s
+--- Axis: X --- 1743447406
+Dominant Frequency: 30.01 Hz
+Acceleration Amplitude: 0.0009 g
+Particle Velocity: 0.05 mm/s
+--- Axis: Y --- 1743447406
+Dominant Frequency: 30.01 Hz
+Acceleration Amplitude: 0.0008 g
+Particle Velocity: 0.04 mm/s
+--- Axis: Z --- 1743447407
+Dominant Frequency: 4.24 Hz
+Acceleration Amplitude: 0.0027 g
+Particle Velocity: 0.99 mm/s
+--- Axis: X --- 1743447439
+Dominant Frequency: 5.60 Hz
+Acceleration Amplitude: 0.0009 g
+Particle Velocity: 0.25 mm/s
+--- Axis: Y --- 1743447440
+Dominant Frequency: 4.90 Hz
+Acceleration Amplitude: 0.0007 g
+Particle Velocity: 0.21 mm/s
+--- Axis: Z --- 1743447440
+Dominant Frequency: 4.97 Hz
+Acceleration Amplitude: 0.0019 g
+Particle Velocity: 0.60 mm/s
+--- Axis: X --- 1743447472
+Dominant Frequency: 27.94 Hz
+Acceleration Amplitude: 0.0008 g
+Particle Velocity: 0.05 mm/s
+--- Axis: Y --- 1743447473
+Dominant Frequency: 27.94 Hz
+Acceleration Amplitude: 0.0009 g
+Particle Velocity: 0.05 mm/s
+--- Axis: Z --- 1743447473
+Dominant Frequency: 5.47 Hz
+Acceleration Amplitude: 0.0019 g
+Particle Velocity: 0.55 mm/s
+--- Axis: X --- 1743447506
+Dominant Frequency: 29.77 Hz
+Acceleration Amplitude: 0.0010 g
+Particle Velocity: 0.05 mm/s
+--- Axis: Y --- 1743447506
+Dominant Frequency: 29.61 Hz
+Acceleration Amplitude: 0.0008 g
+Particle Velocity: 0.04 mm/s
+--- Axis: Z --- 1743447507
+Dominant Frequency: 3.70 Hz
+Acceleration Amplitude: 0.0017 g
+Particle Velocity: 0.72 mm/s
+--- Axis: X --- 1743447539
+Dominant Frequency: 29.94 Hz
+Acceleration Amplitude: 0.0009 g
+Particle Velocity: 0.05 mm/s
+--- Axis: Y --- 1743447540
+Dominant Frequency: 29.94 Hz
+Acceleration Amplitude: 0.0009 g
+Particle Velocity: 0.05 mm/s
+--- Axis: Z --- 1743447540
+Dominant Frequency: 1.50 Hz
+Acceleration Amplitude: 0.0027 g
+Particle Velocity: 2.83 mm/s
+--- Axis: X --- 1743447692
+Dominant Frequency: 24.97 Hz
+Acceleration Amplitude: 0.0114 g
+Particle Velocity: 0.71 mm/s
+Hex: ('0xc', '0x0', '0x8', '0x0', '0xd0', '0x1')
+--- Axis: Y --- 1743447693
+Dominant Frequency: 24.97 Hz
+Acceleration Amplitude: 0.0101 g
+Particle Velocity: 0.63 mm/s
+Hex: ('0xf9', '0xff', '0xf2', '0xff', '0x4e', '0x1')
+--- Axis: Z --- 1743447693
+Dominant Frequency: 24.97 Hz
+Acceleration Amplitude: 0.2871 g
+Particle Velocity: 17.95 mm/s
+Hex: ('0xf', '0x0', '0xfd', '0xff', '0xf6', '0xff')
+--- Axis: X --- 1743447726
+Dominant Frequency: 24.91 Hz
+Acceleration Amplitude: 0.0301 g
+Particle Velocity: 1.88 mm/s
+Hex: ('0xfc', '0xff', '0xf0', '0xff', '0xd2', '0x0')
+--- Axis: Y --- 1743447726
+Dominant Frequency: 24.91 Hz
+Acceleration Amplitude: 0.0316 g
+Particle Velocity: 1.98 mm/s
+Hex: ('0x12', '0x0', '0x0', '0x0', '0x21', '0x0')
+--- Axis: Z --- 1743447727
+Dominant Frequency: 24.91 Hz
+Acceleration Amplitude: 0.7232 g
+Particle Velocity: 45.33 mm/s
+Hex: ('0x9', '0x0', '0x5', '0x0', '0x14', '0x2')
+--- Axis: X --- 1743447759
+Dominant Frequency: 1.00 Hz
+Acceleration Amplitude: 0.0241 g
+Particle Velocity: 37.65 mm/s
+Hex: ('0x12', '0x0', '0x7', '0x0', '0x95', '0x0')
+--- Axis: Y --- 1743447759
+Dominant Frequency: 1.00 Hz
+Acceleration Amplitude: 0.0252 g
+Particle Velocity: 39.29 mm/s
+Hex: ('0x4', '0x0', '0x2', '0x0', '0x2a', '0x2')
+--- Axis: Z --- 1743447760
+Dominant Frequency: 1.00 Hz
+Acceleration Amplitude: 0.5929 g
+Particle Velocity: 925.54 mm/s
+Hex: ('0x0', '0x0', '0xf1', '0xff', '0x52', '0x0')
+--- Axis: X --- 1743447792
+Dominant Frequency: 5.70 Hz
+Acceleration Amplitude: 0.0241 g
+Particle Velocity: 6.59 mm/s
+Hex: ('0x8', '0x0', '0x1', '0x0', '0xad', '0x1')
+--- Axis: Y --- 1743447792
+Dominant Frequency: 5.70 Hz
+Acceleration Amplitude: 0.0248 g
+Particle Velocity: 6.80 mm/s
+Hex: ('0xff', '0xff', '0xf4', '0xff', '0x11', '0x1')
+--- Axis: Z --- 1743447793
+Dominant Frequency: 5.70 Hz
+Acceleration Amplitude: 0.5271 g
+Particle Velocity: 144.33 mm/s
+Hex: ('0x10', '0x0', '0xff', '0xff', '0x51', '0x0')
+--- Axis: X --- 1743447825
+Dominant Frequency: 8.17 Hz
+Acceleration Amplitude: 0.0193 g
+Particle Velocity: 3.70 mm/s
+Hex: ('0x6', '0x0', '0xf7', '0xff', '0x88', '0x0')
+--- Axis: Y --- 1743447825
+Dominant Frequency: 8.17 Hz
+Acceleration Amplitude: 0.0166 g
+Particle Velocity: 3.17 mm/s
+Hex: ('0x0', '0x0', '0xf4', '0xff', '0x4', '0x1')
+--- Axis: Z --- 1743447826
+Dominant Frequency: 8.17 Hz
+Acceleration Amplitude: 0.4260 g
+Particle Velocity: 81.44 mm/s
+Hex: ('0xe', '0x0', '0x1', '0x0', '0x5d', '0x0')
+--- Axis: X --- 1743447857
+Dominant Frequency: 17.04 Hz
+Acceleration Amplitude: 0.0301 g
+Particle Velocity: 2.76 mm/s
+Hex: ('0xfa', '0xff', '0xf6', '0xff', '0xe', '0x2')
+--- Axis: Y --- 1743447858
+Dominant Frequency: 17.04 Hz
+Acceleration Amplitude: 0.0283 g
+Particle Velocity: 2.60 mm/s
+Hex: ('0x0', '0x0', '0x2', '0x0', '0x84', '0x2')
+--- Axis: Z --- 1743447858
+Dominant Frequency: 17.04 Hz
+Acceleration Amplitude: 0.6911 g
+Particle Velocity: 63.33 mm/s
+Hex: ('0xfc', '0xff', '0xec', '0xff', '0x27', '0x0')
+--- Axis: X --- 1743447890
+Dominant Frequency: 15.97 Hz
+Acceleration Amplitude: 0.0372 g
+Particle Velocity: 3.63 mm/s
+Hex: ('0xf9', '0xff', '0xee', '0xff', '0x5e', '0x1')
+--- Axis: Y --- 1743447891
+Dominant Frequency: 15.97 Hz
+Acceleration Amplitude: 0.0412 g
+Particle Velocity: 4.02 mm/s
+Hex: ('0x10', '0x0', '0xfb', '0xff', '0x9a', '0xff')
+--- Axis: Z --- 1743447891
+Dominant Frequency: 15.97 Hz
+Acceleration Amplitude: 0.9263 g
+Particle Velocity: 90.56 mm/s
+Hex: ('0x10', '0x0', '0xb', '0x0', '0x31', '0x2')
+--- Axis: X --- 1743447923
+Dominant Frequency: 16.07 Hz
+Acceleration Amplitude: 0.0329 g
+Particle Velocity: 3.19 mm/s
+Hex: ('0x11', '0x0', '0xff', '0xff', '0xad', '0xff')
+--- Axis: Y --- 1743447923
+Dominant Frequency: 16.07 Hz
+Acceleration Amplitude: 0.0368 g
+Particle Velocity: 3.57 mm/s
+Hex: ('0xf', '0x0', '0xa', '0x0', '0x43', '0x2')
+--- Axis: Z --- 1743447924
+Dominant Frequency: 16.07 Hz
+Acceleration Amplitude: 0.8497 g
+Particle Velocity: 82.54 mm/s
+Hex: ('0xf7', '0xff', '0xec', '0xff', '0x44', '0x1')
+--- Axis: X --- 1743447955
+Dominant Frequency: 16.11 Hz
+Acceleration Amplitude: 0.0427 g
+Particle Velocity: 4.14 mm/s
+Hex: ('0xa', '0x0', '0xf4', '0xff', '0x95', '0xff')
+--- Axis: Y --- 1743447956
+Dominant Frequency: 16.11 Hz
+Acceleration Amplitude: 0.0461 g
+Particle Velocity: 4.47 mm/s
+Hex: ('0x16', '0x0', '0xd', '0x0', '0x31', '0x1')
+--- Axis: Z --- 1743447956
+Dominant Frequency: 16.11 Hz
+Acceleration Amplitude: 1.0713 g
+Particle Velocity: 103.86 mm/s
+Hex: ('0xfc', '0xff', '0xfa', '0xff', '0x65', '0x2')
+--- Axis: X --- 1743448015
+Dominant Frequency: 29.90 Hz
+Acceleration Amplitude: 0.0011 g
+Particle Velocity: 0.06 mm/s
+Hex: ('0x8', '0x0', '0xff', '0xff', '0x6', '0x1')
+--- Axis: Y --- 1743448016
+Dominant Frequency: 29.97 Hz
+Acceleration Amplitude: 0.0008 g
+Particle Velocity: 0.04 mm/s
+Hex: ('0x8', '0x0', '0xfc', '0xff', '0x7', '0x1')
+--- Axis: Z --- 1743448016
+Dominant Frequency: 3.37 Hz
+Acceleration Amplitude: 0.0047 g
+Particle Velocity: 2.19 mm/s
+Hex: ('0x5', '0x0', '0xfd', '0xff', '0x4', '0x1')
